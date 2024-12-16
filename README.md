@@ -8,3 +8,4 @@ https://github.com/zintopia -- IA e comunicação do Front com o Back usando Fla
 
 # Observações
 o projeto, por hora, está neste formato, e não no formato de organização, pois são poucas pessoas. caso o número de pessoas aumente consideravelmente, ai poderemos transformar esse repositório em uma organização
+Todos os nomes colocados acima foram colocados com explicita autorização da pessoa. Por esta razão há alguns somente com o git hub da pessoa, sem o nome dela, pois estes não permitiram a divulgação do nome
