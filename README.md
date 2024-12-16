@@ -3,6 +3,7 @@ Este é um pequeno projeto de gerenciamento de tarefas com auto ranqueamento etc
 
 # Membros do Projeto
 Vitor Berniz Lopes ( https://github.com/Vibelon ) -- Gestão do projeto
+
 https://github.com/zintopia -- IA e comunicação do Front com o Back usando Flask
 
 # Observações
