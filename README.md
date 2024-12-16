@@ -8,6 +8,8 @@ https://github.com/zintopia -- IA e comunicação do Front com o Back usando Fla
 
 Renato Lois M.Silva ( https://github.com/RLois4 ) -- IA e comunicação do Front com o Back usando Flask
 
+Wagner Luiz ( https://github.com/Wagner0070 ) -- Front end
+
 
 # Observações
 o projeto, por hora, está neste formato, e não no formato de organização, pois são poucas pessoas. caso o número de pessoas aumente consideravelmente, ai poderemos transformar esse repositório em uma organização
